@@ -20,13 +20,13 @@
   "homepage": "https://github.com/fataltrace/combat-frontend#readme",
   "dependencies": {
     "@emotion/css": "^11.1.3",
-    "@emotion/react": "^11.4.0",
     "date-fns": "^2.21.2",
     "history": "^5.0.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "ws": "^7.4.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.13",
